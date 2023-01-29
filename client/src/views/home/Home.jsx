@@ -11,6 +11,7 @@ const Home = (props)=>{
         props.getRecipes();
     },[])
 
+    
     return(
         <>
         <div className={style.homecontainer}>

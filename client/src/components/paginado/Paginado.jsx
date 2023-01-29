@@ -14,7 +14,6 @@ const Paginacion = ()=>{
         setcurrentPage(currentPage + 9)
 
     }
-
     const prevPage = ( )=>{
         if(currentPage > 0)
         setcurrentPage(currentPage - 9)

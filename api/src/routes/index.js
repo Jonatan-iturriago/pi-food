@@ -10,5 +10,4 @@ const router = Router();
 router.use('/recipes', recetasRouter);
 router.use('/deits', dietasRouter);
 
-
 module.exports = router;

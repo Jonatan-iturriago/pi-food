@@ -13,8 +13,6 @@ const Landing = ()=>{
         </div>
     )
 
-
-    
     // return(
     //     <>
 

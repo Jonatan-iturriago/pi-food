@@ -2,6 +2,7 @@ const { api, searchUserByName, searchUserById, getByIdDB} = require("../controll
 const { Recipe, Diets}= require('../db')
 
 
+
 const getAll=async (req,res)=>{
     const recetas = await api()
     try {

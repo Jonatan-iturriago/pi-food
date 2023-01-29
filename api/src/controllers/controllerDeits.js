@@ -4,6 +4,7 @@ const {
     API_KEY
 } = process.env;
 
+
 module.exports = {
     loadDiets: async function(){
         const api = await axios.get(`https://api.spoonacular.com/recipes/complexSearch?apiKey=${API_KEY}&addRecipeInformation=true&number=100`);

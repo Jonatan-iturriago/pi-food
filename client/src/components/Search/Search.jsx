@@ -5,6 +5,7 @@ import {search} from "../../redux/actions/index"
 function Buscar(props) {
 const [recipe, setRecipe] = useState("");
 
+
 function handleSubmit(e) {
     e.preventDefault();
     console.log(e)

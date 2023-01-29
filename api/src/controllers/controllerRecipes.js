@@ -22,6 +22,7 @@ arr.map((e) => {
         dishTypes: e.dishTypes.toString(),
         create: false
         }
+        
 });
 
 const api = async()=>{

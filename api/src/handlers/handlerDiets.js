@@ -3,6 +3,7 @@ const {loadDiets} = require('../controllers/controllerDeits')
 
 
 
+
 const getAllDietas = async (req, res)=>{
     try {
         const bdDiets = await Diets.findAll();
