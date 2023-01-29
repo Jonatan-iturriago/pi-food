@@ -1,0 +1,25 @@
+.card{
+    border: 1px solid rgb(189, 131, 233);
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.cont{
+    border: 1px solid rgb(189, 131, 233);
+    height:250px;
+    width: 250px;
+    align-content: center;
+    justify-content: center;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+}
+
+.titulo{
+    color: blue;
+    height: 30px;
+    width: auto;
+}

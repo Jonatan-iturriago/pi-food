@@ -1,0 +1,9 @@
+.homecontainer {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: flex-start;
+    height: 80px;
+    top: 10rem;
+  }

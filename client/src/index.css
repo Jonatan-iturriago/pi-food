@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background: url(https://media.istockphoto.com/id/941858854/es/foto/hierbas-y-especias-para-cocinar-sobre-fondo-oscuro.jpg?s=1024x1024&w=is&k=20&c=SAePD_mdWOi_T0ku6w5YK-R_sHEgtAhps1aC57AwlN4=); */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

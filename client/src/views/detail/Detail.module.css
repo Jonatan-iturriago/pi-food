@@ -1,0 +1,22 @@
+.detalle{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+    flex-wrap: wrap;
+    gap: 1em;
+    height: 500px;
+    width: 900px;
+}
+
+.contImagen{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+
+}
+
+.contInfo{
+    border: 1px solid black;
+    height: max-content;
+}

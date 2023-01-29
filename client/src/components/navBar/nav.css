@@ -1,0 +1,52 @@
+
+.container{
+    background-color:blueviolet;
+    border-radius:10px;
+    height: 140px;
+    position: static;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    max-width: 922px;
+    margin: 0 auto;
+}
+
+.nav-link{
+    color: rgb(12, 12, 12);
+    text-decoration: none;
+}
+
+
+
+.nav-menu{
+    display: flex;
+    margin-right:40px;
+    list-style: none;
+}
+
+.nav-menu-item{
+    justify-content: center;
+    font-size: 18px;
+    margin: 0 10px;
+    line-height: 80px;
+    text-transform: uppercase;
+    width: max-content;
+}
+
+.nav-menu-link{
+    padding: 8px 12px;
+    border-radius:40%;
+}
+
+.filtros{
+    font-size: 18px;
+    margin: 0 10px;
+    line-height: 80px;
+    text-transform: uppercase;
+    width: max-content;
+}
